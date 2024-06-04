@@ -1,0 +1,18 @@
+/*
+* File: app.js
+* Author: Kristál Dávid
+* Copyright: 2024, Kristál Dávid
+* Group: Szoft I/2/N
+* Date: 2024-06-04
+* Github: https://github.com/kristaldavid/
+* Licenc: GNU GPL
+*/
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: blueviolet;
+    font-family: sans-serif;
+}
